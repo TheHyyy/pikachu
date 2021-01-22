@@ -194,7 +194,8 @@ body {
   background-color: #f00;
   border-radius: 50%;
 }
-/* 结束了，这只皮卡丘送给你 */
+/* 谢谢你能看到这里
+   这只皮卡丘送给你 */
 `
 
 const player = {
